@@ -1,0 +1,122 @@
+<test-cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-1HandleAlertOnPharmacyModule</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-2VerifyToGetTheValidationMessageWhenClickOnPrintReceiptWithoutFillingAnyDetails</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-3VerifyToDataRangeBySelectLast3MonthsOptionFromDropDown</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-4VerifyThatEnteringAKeywordMatchesExistingRecords</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-5VerifyThePresenceOfDoctorFilterDropDownBySelectingDr.AlexOkelloOnyiegoOption</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-6AddAndVerifyANewDynamicTemplateInSettingsModule</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-7VerifyInventoryRequisitionInSubstoreModule</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-8VerifyMaternityAllowanceReportIsVisible</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-9VerifyImagingAndLabOrderAddSuccessfully</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-10VerifyToFilterTheRecordsBySelectX-rayFromFilterDropDown</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-11VerifyAndCreatingTheConsumptionSectionOfTheInventoryModule</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-12VerifyAndCreatingTheReportsSectionOfTheInventoryModule</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-13VerifyAndCheckThePresenceOfSupplierNameOnTable</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-14VerifyLogoutFunctionalityFromAdminDropdown</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+  <cases xmlns:java="http://java.sun.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:com.assessment.data.TestCase">
+    <test-case-type>Suite</test-case-type>
+    <expected-ouput>true</expected-ouput>
+    <name>automationSuiteForYakshaApplication-Ts-15LoginWithInvalidCredentials</name>
+    <weight>2</weight>
+    <mandatory>true</mandatory>
+    <desc>na</desc>
+  </cases>
+</test-cases>
